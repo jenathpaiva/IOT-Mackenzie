@@ -3,7 +3,7 @@ import paho.mqtt.client as mqtt
 
 mqtt_broker = "localhost"
 mqtt_port = 1883
-mqtt_topic = "home/teste"
+mqtt_topic = "arduino/iot"
 
 serial_port = "COM4" 
 
