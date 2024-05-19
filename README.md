@@ -2,7 +2,8 @@ Jeniffer Nathalia Borges de Paiva - 10370000
 
 **Link do vídeo de demonstração no YOUTUBE:** [OBJETOS INTELIGENTES CONECTADOS ](https://www.youtube.com/watch?v=WnmMYvHiHOI)
 
-**Descrição do Funcionamento e Uso do Protótipo de Irrigação e Monitoração de solo Inteligente**/
+**Descrição do Funcionamento e Uso do Protótipo de Irrigação e Monitoração de solo Inteligente**
+
 O protótipo de irrigação inteligente é desenvolvido com sensores e atuadores conectados a uma placa Arduino para monitorar a umidade do solo (trazendo os resultados da umidade do solo e avisando se esta ou não regando) e fornecer água às plantas conforme necessário. Com base nos dados de umidade do solo, o Arduino determina se a irrigação é necessária. Um algoritmo de controle ajusta o limite de umidade desejado, considerando as necessidades específicas da planta e fatores ambientais. Se a umidade do solo estiver abaixo do limite definido, o sistema prossegue para a etapa de irrigação.
 
 Funcionamento Detalhado
@@ -19,7 +20,7 @@ A bomba peristáltica é ativada para bombear água da fonte para a mangueira de
 A água é liberada na base das plantas através da mangueira, fornecendo a quantidade adequada de água para restaurar o nível de umidade do solo.
 Comunicação MQTT:
 
-**Documentação das interfaces, protocolos e módulos de comunicação:**/
+**Documentação das interfaces, protocolos e módulos de comunicação:**
 
 O projeto utiliza um Arduino UNO com comunicação via cabo USB para enviar os dados para o computador (avisando a umidade do solo e se o solo esta com umidade suficiente ou se esta insuficiente, assim, regando a planta).
 O computador executa um script em Python que recebe os dados pela porta serial e publica os dados para o broker MQTT.
@@ -36,7 +37,7 @@ Leitura e Processamento de Dados: O script Python continuamente lê os dados env
 Envio para o Broker MQTT: Após a conversão, os dados são formatados e publicados nos tópicos MQTT apropriados utilizando a função publish da biblioteca paho-mqtt.
 
 
-**Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores):** \
+**Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores):** 
 01 Arduino UNO \
 01 Sensor de umidade do solo \
 01 Módulo relé \
