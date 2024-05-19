@@ -38,12 +38,12 @@ Envio para o Broker MQTT: Após a conversão, os dados são formatados e publica
 
 
 **Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores)**
-01 Arduino UNO
-01 Sensor de umidade do solo
-01 Módulo relé
-01 Bomba d'água
-01 Fonte 5V para conectar na bomba d'água
-01 USB A-B
-01 Mangueira utilizada na bomba d'água
+01 Arduino UNO \
+01 Sensor de umidade do solo \
+01 Módulo relé \
+01 Bomba d'água \
+01 Fonte 5V para conectar na bomba d'água \
+01 USB A-B \
+01 Mangueira utilizada na bomba d'água \
 
 
