@@ -1,4 +1,6 @@
-Jeniffer Nathalia - 10370000
+Jeniffer Nathalia Borges de Paiva - 10370000
+
+**Link do vídeo de demonstração no YOUTUBE:** [OBJETOS INTELIGENTES CONECTADOS ](https://www.youtube.com/watch?v=WnmMYvHiHOI)
 
 **Descrição do Funcionamento e Uso do Protótipo de Irrigação e Monitoração de solo Inteligente**
 Resumo do Funcionamento
