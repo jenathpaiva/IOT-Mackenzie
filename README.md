@@ -2,7 +2,7 @@ Jeniffer Nathalia Borges de Paiva - 10370000
 
 **Link do vídeo de demonstração no YOUTUBE:** [OBJETOS INTELIGENTES CONECTADOS ](https://www.youtube.com/watch?v=WnmMYvHiHOI)
 
-**Descrição do Funcionamento e Uso do Protótipo de Irrigação e Monitoração de solo Inteligente**
+**Descrição do Funcionamento e Uso do Protótipo de Irrigação e Monitoração de solo Inteligente:**
 
 O protótipo de irrigação inteligente é desenvolvido com sensores e atuadores conectados a uma placa Arduino para monitorar a umidade do solo (trazendo os resultados da umidade do solo e avisando se esta ou não regando) e fornecer água às plantas conforme necessário. Com base nos dados de umidade do solo, o Arduino determina se a irrigação é necessária. Um algoritmo de controle ajusta o limite de umidade desejado, considerando as necessidades específicas da planta e fatores ambientais. Se a umidade do solo estiver abaixo do limite definido, o sistema prossegue para a etapa de irrigação.
 
