@@ -37,7 +37,7 @@ Leitura e Processamento de Dados: O script Python continuamente lê os dados env
 Envio para o Broker MQTT: Após a conversão, os dados são formatados e publicados nos tópicos MQTT apropriados utilizando a função publish da biblioteca paho-mqtt.
 
 
-**Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores)** \
+**Descrição do hardware utilizado (plataformas de desenvolvimento, sensores, atuadores):** \
 01 Arduino UNO \
 01 Sensor de umidade do solo \
 01 Módulo relé \
